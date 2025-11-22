@@ -3,7 +3,7 @@
     "slug": "kak-vybrat-kartinu-dlya-interera",
     "title": "Как выбрать картину для интерьера",
     "excerpt": "Как подобрать картину по размеру, цвету и стилю под ваш интерьер.",
-    "coverImage": "https://ТВОЙ-ДОМЕН/images/articles/interior-cover.jpg",
+    "coverImage": "https://www.artforhouse.by/images/gallery/a18.jpg",
     "createdAt": "2025-11-22T10:00:00.000Z",
     "contentHtml": "<p>Здесь будет основной текст статьи. Можно писать длинный текст с разметкой.</p><p>Например, вставить картинку:</p><p><img src=\"https://ТВОЙ-ДОМЕН/images/articles/interior1.jpg\" alt=\"Пример картины в интерьере\" /></p><p>И, например, видео:</p><p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/VIDEO_ID\" title=\"YouTube video\" frameborder=\"0\" allowfullscreen></iframe></p>"
   },
@@ -11,7 +11,7 @@
     "slug": "uhod-za-kartinami",
     "title": "Как ухаживать за картинами",
     "excerpt": "Простые правила ухода за маслом и акрилом, чтобы картины радовали долгие годы.",
-    "coverImage": "https://ТВОЙ-ДОМЕН/images/articles/care-cover.jpg",
+    "coverImage": "https://www.artforhouse.by/images/gallery/a21.jpg",
     "createdAt": "2025-11-21T12:00:00.000Z",
     "contentHtml": "<p>Основной текст про уход...</p>"
   }
